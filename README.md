@@ -1,4 +1,7 @@
 ### Hey there ❤️
+My name is Felix Mark.
+I am a Software Developer by heart who loves to work on challenging tasks and create literally anything.
+Feel free to check out some of my public repositories and have a nice day!
 
 <!--
 - 🔭 I’m currently working on ...
