@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Cozy Habits, a gamified habit tracking App.
+- 🌱 I’m currently learning the Rust language, mostly.
