@@ -16,4 +16,4 @@ Feel free to check out some of my public repositories and have a nice day!
 
 - 🪴 My current main project: Cozy Habits, a gamified habit tracking App.
 - 📖 Currently learning: The Rust programming language, mostly.
-- 🌐 My personal Website: https://ghostfox.de
+- 🌐 My personal Website: https://funktionierts.jetzt
