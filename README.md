@@ -14,7 +14,7 @@ Feel free to check out some of my public repositories and have a nice day!
 - ⚡ Fun fact: ...
 -->
 
-- 🪴 My current main project: Cozy Habits, a gamified habit tracking App.
+- 🪴 Check out my first Android App: [Cozy Habits](https://play.google.com/store/apps/details?id=com.fmdev.cozyhabits), a gamified habit tracking App.
 - 📖 Currently learning: The Rust programming language, mostly.
 - 🌐 Visit my personal Website to find out more:
   - DE [https://funktionierts.jetzt/de/](https://funktionierts.jetzt/de/)
