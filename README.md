@@ -6,4 +6,4 @@ Feel free to check out some of my public repositories and have a nice day!
 - 🪴 Check out my first Android App: [Cozy Habits](https://play.google.com/store/apps/details?id=com.fmdev.cozyhabits), a gamified habit tracking App.
 - 📖 Currently learning: The Rust programming language, mostly.
 - 🌐 Visit my personal Website to get to know me better:
-  - [https://bloom-os.app/#/?app=terminal&param=cat%20index](https://bloom-os.app/#/?app=terminal&param=cat%20index)
+  - [https://bloom-os.app/#/?app=terminal&param=cat%20index.html](https://bloom-os.app/#/?app=terminal&param=cat%20index.html)
